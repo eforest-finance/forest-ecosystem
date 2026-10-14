@@ -5,31 +5,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="This address does not match a page. Explore the project overview and resources.">
   <meta name="robots" content="noindex">
+  <meta name="publishing-root" content="/forest-ecosystem/" data-project-host="eforest-finance.github.io" data-page-directory="aelfinscription/">
+  <script>
+    const publishingRoot = document.querySelector('meta[name="publishing-root"]');
+    const projectPath = publishingRoot.content;
+    const projectAddress = location.hostname === publishingRoot.dataset.projectHost && (location.pathname === projectPath.slice(0, -1) || location.pathname.startsWith(projectPath));
+    const sitePath = projectAddress ? projectPath : '/';
+    const base = document.createElement('base');
+    base.href = sitePath + publishingRoot.dataset.pageDirectory;
+    document.head.append(base);
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelector('.skip-link').href = location.pathname + location.search + '#main';
+    }, { once: true });
+  </script>
   <title>Page not found · aelf Inscriptions</title>
-  <link rel="icon" href="/aelfinscription/assets/logo.svg">
-  <link rel="stylesheet" href="/aelfinscription/styles.css">
+  <link rel="icon" href="assets/logo.svg">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="page page--inscriptions">
     <div class="shell">
       <header class="header">
-        <a class="brand" href="/aelfinscription/" aria-label="aelf Inscriptions home">
-          <img src="/aelfinscription/assets/logo.svg" alt="aelf Inscriptions" width="261" height="32">
+        <a class="brand" href="./" aria-label="aelf Inscriptions home">
+          <img src="assets/logo.svg" alt="aelf Inscriptions" width="261" height="32">
         </a>
         <nav class="nav" aria-label="Primary navigation">
-          <a href="/">Forest</a>
-          <a href="/symbolmarket/">Symbol Market</a>
-          <a href="/aelfinscription/">Inscriptions</a>
-          <a href="/aelfinscription/#concepts">Concepts</a>
-          <a href="/aelfinscription/#references">Resources</a>
+          <a href="../">Forest</a>
+          <a href="../symbolmarket/">Symbol Market</a>
+          <a href="./">Inscriptions</a>
+          <a href="./#concepts">Concepts</a>
+          <a href="./#references">Resources</a>
         </nav>
       </header>
       <main class="detail-shell" id="main" tabindex="-1" aria-labelledby="detail-title">
         <p class="eyebrow">aelf Inscriptions</p>
         <h1 id="detail-title">Page not found</h1>
         <p class="lede">This address does not match a page. Explore the project overview and resources using the navigation above.</p>
-        <div class="hero-links"><a class="link-button link-button--primary" href="/aelfinscription/">aelf Inscriptions overview</a></div>
+        <div class="hero-links"><a class="link-button link-button--primary" href="./">aelf Inscriptions overview</a></div>
       </main>
     </div>
     <footer class="footer">

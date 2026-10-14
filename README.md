@@ -39,9 +39,11 @@ python3 -m http.server 4178 --bind 127.0.0.1
 
 Browse [Forest](http://127.0.0.1:4178/), [Symbol Market](http://127.0.0.1:4178/symbolmarket/), or [aelf Inscriptions](http://127.0.0.1:4178/aelfinscription/).
 
-Deploy the full directory at the root of a domain. The three sites share root-relative navigation, so a GitHub Pages custom domain provides the expected URL layout. The host should support directory indexes and return HTTP 404 for unknown addresses.
+Publish the full directory with GitHub Pages by selecting `main` and `/ (root)` in the repository's Pages settings. The default address is [eforest-finance.github.io/forest-ecosystem/](https://eforest-finance.github.io/forest-ecosystem/). Relative links and asset paths also support hosting at the root of a custom domain without changing the HTML.
 
-Forest and both companion projects include their own `404.html` content. Error-page selection and status codes are configured by the host.
+The host should support directory indexes and return HTTP 404 for unknown addresses. Paths listed above are relative to the site's publishing directory.
+
+Forest and both companion projects include their own `404.html` content. Their `publishing-root` metadata identifies the GitHub Pages hostname, project path, and page directory; a small inline helper keeps navigation and assets anchored correctly for nested error addresses. Update that metadata if the Pages owner or repository name changes. Error-page selection and status codes are configured by the host.
 
 ## Project references
 

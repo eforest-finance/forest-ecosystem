@@ -5,29 +5,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="This address does not match a page. Explore the Forest overview and resources.">
   <meta name="robots" content="noindex">
+  <meta name="publishing-root" content="/forest-ecosystem/" data-project-host="eforest-finance.github.io" data-page-directory="">
+  <script>
+    const publishingRoot = document.querySelector('meta[name="publishing-root"]');
+    const projectPath = publishingRoot.content;
+    const projectAddress = location.hostname === publishingRoot.dataset.projectHost && (location.pathname === projectPath.slice(0, -1) || location.pathname.startsWith(projectPath));
+    const sitePath = projectAddress ? projectPath : '/';
+    const base = document.createElement('base');
+    base.href = sitePath + publishingRoot.dataset.pageDirectory;
+    document.head.append(base);
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelector('.skip-link').href = location.pathname + location.search + '#main';
+    }, { once: true });
+  </script>
   <title>Page not found · Forest</title>
-  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
-    <a class="brand" href="/" aria-label="Forest home">
-      <img class="logo logo-light" src="/assets/images/forest-logo-light.svg" width="138" height="28" alt="Forest">
-      <img class="logo logo-dark" src="/assets/images/forest-logo-dark.svg" width="138" height="28" alt="Forest">
+    <a class="brand" href="./" aria-label="Forest home">
+      <img class="logo logo-light" src="assets/images/forest-logo-light.svg" width="138" height="28" alt="Forest">
+      <img class="logo logo-dark" src="assets/images/forest-logo-dark.svg" width="138" height="28" alt="Forest">
     </a>
     <nav class="header-nav" aria-label="Primary navigation">
-      <a href="/">Forest</a>
-      <a href="/#concepts">Concepts</a>
-      <a href="/symbolmarket/">Symbol Market</a>
-      <a href="/aelfinscription/">Inscriptions</a>
-      <a href="/#help">Resources</a>
+      <a href="./">Forest</a>
+      <a href="./#concepts">Concepts</a>
+      <a href="symbolmarket/">Symbol Market</a>
+      <a href="aelfinscription/">Inscriptions</a>
+      <a href="./#help">Resources</a>
     </nav>
   </header>
   <main class="notice" id="main" tabindex="-1" aria-labelledby="notice-title">
     <p class="eyebrow">Forest</p>
     <h1 id="notice-title">Page not found</h1>
     <p>This address does not match a page. Explore the Forest overview, Symbol Market, or aelf Inscriptions using the navigation above.</p>
-    <div class="actions"><a class="button button-primary" href="/">Forest overview</a></div>
+    <div class="actions"><a class="button button-primary" href="./">Forest overview</a></div>
   </main>
   <footer class="site-footer">
     <div class="footer-row">

@@ -75,18 +75,18 @@
     },
     {
       "path": "404.html",
-      "bytes": 2065,
-      "sha256": "6c268f0f6318c9a35dd531fea7ba0095944ed0766fd0fa3654c7e868158791d4"
+      "bytes": 2913,
+      "sha256": "91958bbf035326ee358af2942f31c51bec725c067e8b5af776a9f3ceca28e2f0"
     },
     {
       "path": "README.md",
-      "bytes": 2952,
-      "sha256": "71ee648c7d64660cedec2d49c251817197306ef4cab46ea8bd9db1b1e1ff7637"
+      "bytes": 3475,
+      "sha256": "0c7dba94c0cc2193d69a252b3bac50ae72185c9351241dd2eb102092a1bffda4"
     },
     {
       "path": "aelfinscription/404.html",
-      "bytes": 2222,
-      "sha256": "f289118f329fe5156d04ffb12f618168eda79d167e54659c7d27ab3491357291"
+      "bytes": 2964,
+      "sha256": "676bcb019d0a407a7364b04cdc804651db6f52e31d13ca8b00c10d036ffbe34a"
     },
     {
       "path": "aelfinscription/assets/font/Roboto-Bold.ttf",
@@ -125,8 +125,8 @@
     },
     {
       "path": "aelfinscription/assets/index.html",
-      "bytes": 2623,
-      "sha256": "ebeed1cc1fefd6440e17bdcd95a6572ba18368c0149ecc451ad4fa1d0026092e"
+      "bytes": 2487,
+      "sha256": "a88272e51a7ef4d33efe8f83deaafb2e9636c3702e4a8b5b0a7c452652812389"
     },
     {
       "path": "aelfinscription/assets/logo.svg",
@@ -140,63 +140,63 @@
     },
     {
       "path": "aelfinscription/auction/index.html",
-      "bytes": 2582,
-      "sha256": "78bba165cdcf987b88705e7e5d24cca862f93fd869c15f0b360937b0c08e4748"
+      "bytes": 2466,
+      "sha256": "306ec41b0fab464420a8b94e6e5ec4dfff93a7829472123c9c9b605325ecc4c0"
     },
     {
       "path": "aelfinscription/create-ft/index.html",
-      "bytes": 2622,
-      "sha256": "83d21c8d80035ae0edc01c54fd729fd76b25ac30c65c465be4a5df45caf1b94f"
+      "bytes": 2506,
+      "sha256": "58f6d3592b2fc228ea292f3030dace6a900f08a6763127faea6f80e9a902762e"
     },
     {
       "path": "aelfinscription/deploy/index.html",
-      "bytes": 2623,
-      "sha256": "144ffe3d4865aec25e863bdea82116dff51d46a2c9888c7c935f9ea066d0d0ff"
+      "bytes": 2507,
+      "sha256": "de046ea58c5f8dfe1e162ce5ad0f12710065b95bf2f075b6ef9944237e200d1f"
     },
     {
       "path": "aelfinscription/index.html",
-      "bytes": 6192,
-      "sha256": "546415470b1eda0b39e29ddd34470e400c3396769be3aaf5cbcdb45970e691e7"
+      "bytes": 6089,
+      "sha256": "81e1b4d33691fb40cf4a9fe42c7e158240879165e1ee831c8250ce46872a690b"
     },
     {
       "path": "aelfinscription/inscription-detail/index.html",
-      "bytes": 2657,
-      "sha256": "ead853e27bee5aaaf2ae6da4f8c437234b9066429a084b7165f869dbe5a8c5ce"
+      "bytes": 2541,
+      "sha256": "5dabf971da8b1b55aacb60fd16f6b82f1631035e22966b12fedaa91e567f6c12"
     },
     {
       "path": "aelfinscription/issue/index.html",
-      "bytes": 2592,
-      "sha256": "ffed70ccf7762aba445678280f08701aaf772a3f0b34c03bc23cd3abbdf907ca"
+      "bytes": 2476,
+      "sha256": "65f86930f06b5559e1f8894a8d0a9fe06cb7d29b582bb65341ed52ae3b7eade5"
     },
     {
       "path": "aelfinscription/latest/index.html",
-      "bytes": 2511,
-      "sha256": "a0e31ed0c87fa64dcbb257ef163e25afa3a0482f0fb3be0067876552624e4d61"
+      "bytes": 2395,
+      "sha256": "90533c330bce134761e1a580369e17bb18be338dabd0c3c1b28ab8edc9c57d55"
     },
     {
       "path": "aelfinscription/mint/index.html",
-      "bytes": 2647,
-      "sha256": "018d51ebc6c64345fbd595731c3a4527e96f0f7f2a0b312add0cd85ec13a2b5f"
+      "bytes": 2531,
+      "sha256": "d86731ebb3f57771d182ff69ab8f84e6aad05116687a7b94d8f6b054b7823602"
     },
     {
       "path": "aelfinscription/notable/index.html",
-      "bytes": 2622,
-      "sha256": "482d0f917cee2dc64a4b6e6165c8095a2635663fb2f93c8fb9a9a4c24516b955"
+      "bytes": 2506,
+      "sha256": "1eb0789bf54546846318139133a2bff82cc6127e44992e05a0767bc9e7ab1c4b"
     },
     {
       "path": "aelfinscription/popular/index.html",
-      "bytes": 2582,
-      "sha256": "e542a56106ecb3bb5b3dfee69dfaf1e33ce97c716d864389ad1bdeea1745adaf"
+      "bytes": 2466,
+      "sha256": "2f8191ab77161587dd5b1e0ef084aaaafd7a2211b72a4c89e6663f92e5fd0103"
     },
     {
       "path": "aelfinscription/profile/index.html",
-      "bytes": 2598,
-      "sha256": "b8401f2af6a2a3112b9e81204e97519eacabe818be527c62eed28585b18c53e9"
+      "bytes": 2482,
+      "sha256": "4c61f6fd71be609cc78448e59a11bc3e3300793c93d2302d5462ee14216993c4"
     },
     {
       "path": "aelfinscription/seed-detail/index.html",
-      "bytes": 2590,
-      "sha256": "49e4de15d1621d019f5ce60ed6779445eccc1fdd46f6ac70323025d7685c219a"
+      "bytes": 2474,
+      "sha256": "386135e8a286983b29cd686feae65c51ef897915bed5d6d72f34c4e3409ecd79"
     },
     {
       "path": "aelfinscription/styles.css",
@@ -205,8 +205,8 @@
     },
     {
       "path": "asset/index.html",
-      "bytes": 2251,
-      "sha256": "99f2f1c77d26b56b3dd570bcf8ab6fa12b7c9c03a34fa6acc7c36a0dcd87d63e"
+      "bytes": 2273,
+      "sha256": "bfada617fe97619ea7c984450c23812039d2a7144d3521fa6daf3d20db188f2b"
     },
     {
       "path": "assets/fonts/Poppins-Bold.otf",
@@ -250,53 +250,53 @@
     },
     {
       "path": "collections/index.html",
-      "bytes": 2255,
-      "sha256": "b7e6e8fa9aad416b6474fde6cc62d666f9aac52129ae33daba964360e2c59a98"
+      "bytes": 2277,
+      "sha256": "2b8b930a96e4e421b739e04e76e98764e696a2b7762a77fce2d55ad0cf004117"
     },
     {
       "path": "create-collection/index.html",
-      "bytes": 2369,
-      "sha256": "1becf28fe86aaade83096c2fd18c8c4fef280509bc557609439afc3c076c2cb5"
+      "bytes": 2391,
+      "sha256": "1920ddb8bb4cc4b51f66ac40177bd6ec23678883d33823aebd857253cf0bcf4e"
     },
     {
       "path": "create-item/index.html",
-      "bytes": 2359,
-      "sha256": "2035e428cb0dc6551122e8f64a21257a744412c17f0c24d7cf4c30cc424b676a"
+      "bytes": 2381,
+      "sha256": "d18622d420e137a2aef6fd0a88bd3aa193d63c65a8eb7ac9133f51d292207107"
     },
     {
       "path": "create-nft-ai/index.html",
-      "bytes": 2321,
-      "sha256": "080e6f9cda2bf3801c61c992b039eb950b97b09b0024e5cc3f31ceda96e98e44"
+      "bytes": 2343,
+      "sha256": "4b6c3b45269423f9c182b3dea62f9e9850f5bafab89c84e9df16b443c9634bc3"
     },
     {
       "path": "detail/index.html",
-      "bytes": 2256,
-      "sha256": "486c67d598687eed168a34d3d191f243176586aef3987e666b73e4868d49427e"
+      "bytes": 2278,
+      "sha256": "4eb5eead024b0b427fb0f5aea828ba70abc7b1cd19daf4481c91fcb1a3ad0f30"
     },
     {
       "path": "drops-detail/index.html",
-      "bytes": 2270,
-      "sha256": "44ec346e8980ea354b3e2dec295de349e1ca42e8d2860b1b7daeada127f76119"
+      "bytes": 2292,
+      "sha256": "569bef825c68ddb8bd5216eb1de89ac9fd44534d709a6f8dcfc84295aeea9466"
     },
     {
       "path": "drops/index.html",
-      "bytes": 2207,
-      "sha256": "5e49ccd7f1e66d7b3ee7cb8c5ed92391a506d2aa4d40efb1c2cb827f5fb7555f"
+      "bytes": 2229,
+      "sha256": "46eb9d4ed75c209279b8ca952f11be89d68b7f7bd83c4c5d99090f72547625bc"
     },
     {
       "path": "explore-items/index.html",
-      "bytes": 2231,
-      "sha256": "4f9e5c80f78fade0d2743237d177bc4037c70471a5e3b7dc85bd1c09b038221b"
+      "bytes": 2253,
+      "sha256": "30e0542d8f7bd3aada8f309569eddc69c8f7658aae42a31f93e0c9c6444c6d9c"
     },
     {
       "path": "index.html",
-      "bytes": 5968,
-      "sha256": "44cdcdf14cac6d692c5c377dbf2027d701e41ffc209eecf789a48daf6ec8778c"
+      "bytes": 5963,
+      "sha256": "904c3e7d6371aa4ff553409e41ac40d70f4d05790083c9f1f2ed91ee794c6eab"
     },
     {
       "path": "my-collections/index.html",
-      "bytes": 2418,
-      "sha256": "1bd2ee119fdca4c5df33f4d9c843c1778cd9bd4d7e6f395b44cf1d275d81a587"
+      "bytes": 2440,
+      "sha256": "335f2867f6f2956b51296ede02a4377b153dfa58a0b9eacb5cd7ca4ab6f1f0d2"
     },
     {
       "path": "source-provenance.json",
@@ -310,8 +310,8 @@
     },
     {
       "path": "symbolmarket/404.html",
-      "bytes": 2171,
-      "sha256": "0bec5b8fdf17a57eb357fa7916e14a43802499cd1d6e3fad1c3be00107a8717f"
+      "bytes": 2934,
+      "sha256": "6146dd861d0504bfb26d44ac9f380db6879701faa243031b69ef52464b5dbcc4"
     },
     {
       "path": "symbolmarket/assets/font/Roboto-Bold.ttf",
@@ -350,8 +350,8 @@
     },
     {
       "path": "symbolmarket/assets/index.html",
-      "bytes": 2562,
-      "sha256": "0dad4664fc3e62411298f25932211756657a220187bce344f2de2357d7586fde"
+      "bytes": 2453,
+      "sha256": "326e8aac7ece4aa9cae54bfe2aed542f0dd06f71f2589d9b7e281e799ccccb17"
     },
     {
       "path": "symbolmarket/assets/logo.svg",
@@ -360,38 +360,38 @@
     },
     {
       "path": "symbolmarket/auction/index.html",
-      "bytes": 2521,
-      "sha256": "7e14331a4326cfcad7ffb993961409004119f87529be77208d0b4961668bd307"
+      "bytes": 2432,
+      "sha256": "6f5b9c5947a2b892208ee435582996503b0da70eaf8c8376e170075a96bc2b19"
     },
     {
       "path": "symbolmarket/create-ft/index.html",
-      "bytes": 2561,
-      "sha256": "15a00b1a66ba2e7360ddc74241cfb9b6ea0deb6836cf25b7152612b51c7eb2b7"
+      "bytes": 2472,
+      "sha256": "8bafa442805b920a0f160fc448a2c3335a287f2bf7d2cc345f5ffdb3a600ce8b"
     },
     {
       "path": "symbolmarket/index.html",
-      "bytes": 6091,
-      "sha256": "c2c9207d7dbf51e476f8a7de72daa124e39b22f34ffae0f56aeeedb086727ab0"
+      "bytes": 6009,
+      "sha256": "47d3746d65fe6f8bfed1a54f8da066a54f279da715b4a8c817de958dccde7e24"
     },
     {
       "path": "symbolmarket/notable/index.html",
-      "bytes": 2561,
-      "sha256": "cde350a922bab2f74d1d5b539d7e887841fb830e836446f320501b7aee92f347"
+      "bytes": 2472,
+      "sha256": "c94b3ae5c27c8625bac9daf2b94f2d539c186281c6cfa77b449a2bdca6225ec0"
     },
     {
       "path": "symbolmarket/popular/index.html",
-      "bytes": 2521,
-      "sha256": "059cba1512f8d62f847786ce444259af80ae6dfecfb8d99d3a622a45f3274277"
+      "bytes": 2432,
+      "sha256": "3295d117459e1e4e1c6fad5a92376be4f1f26a10136baecd0cc1298c5dadac77"
     },
     {
       "path": "symbolmarket/profile/index.html",
-      "bytes": 2537,
-      "sha256": "142144014aa29d3af71ad6135b87fa100667a6244d3caa73f42972bc30f6ac5e"
+      "bytes": 2448,
+      "sha256": "506a4f27c8803441baeeb4a476c8e0e8bbaa692503aaf2624e5ffa01c1c22b16"
     },
     {
       "path": "symbolmarket/seed-detail/index.html",
-      "bytes": 2529,
-      "sha256": "4b0ae64c0e486335ea23728c025b2f33588c5ac80d17f95da40d7b0733f425c2"
+      "bytes": 2440,
+      "sha256": "057ffd748a5c7b554eadfd619690991a3ab6dc87e8d35e99f680b9d261c20d70"
     },
     {
       "path": "symbolmarket/styles.css",
