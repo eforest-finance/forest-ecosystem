@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Understand inscription ticks, SEEDs, total supply, limits per mint, and inscription terminology on aelf.">
+
+  <title>aelf Inscriptions</title>
+  <link rel="icon" href="/aelfinscription/assets/logo.svg">
+  <link rel="stylesheet" href="/aelfinscription/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="page page--inscriptions">
+    <div class="shell">
+      <header class="header">
+        <a class="brand" href="/aelfinscription/" aria-label="aelf Inscriptions home">
+          <img src="/aelfinscription/assets/logo.svg" alt="aelf Inscriptions" width="261" height="32">
+        </a>
+        <nav class="nav" aria-label="Primary navigation">
+          <a href="/">Forest</a>
+          <a href="/symbolmarket/">Symbol Market</a>
+          <a href="/aelfinscription/" aria-current="page">Inscriptions</a>
+          <a href="/aelfinscription/#concepts">Concepts</a>
+          <a href="/aelfinscription/#references">Resources</a>
+        </nav>
+      </header>
+      <main id="main" tabindex="-1">
+        <section class="hero" aria-labelledby="hero-title">
+          <div>
+            <p class="eyebrow">Names, supply, and on-chain records</p>
+            <h1 id="hero-title">aelf Inscriptions</h1>
+            <p class="lede">aelf Inscriptions is a project for named inscriptions on the aelf blockchain. An inscription has a tick, a total supply, and a limit per mint. Explore what these fields mean and the terminology used in inscription records.</p>
+            <div class="hero-links">
+              <a class="link-button link-button--primary" href="#concepts">Learn the concepts</a>
+              <a class="link-button" href="#references">Explore resources</a>
+            </div>
+          </div>
+        </section>
+        <section class="section" id="concepts" aria-labelledby="concepts-title">
+          <h2 class="section-title" id="concepts-title">Read an inscription’s definition</h2>
+          <div class="grid">
+        <article class="card card--accent">
+          <h3>Tick &amp; SEED</h3>
+          <p>A tick is the inscription’s name. In the aelf inscription design, it is associated with the symbol of an NFT-tagged SEED.</p>
+        </article>
+        <article class="card">
+          <h3>Total supply &amp; limit per mint</h3>
+          <p>Total supply defines the overall supply cap. The limit per mint defines the maximum amount for one mint; it is a separate field from total supply.</p>
+        </article>
+        <article class="card">
+          <h3>Chain &amp; identifiers</h3>
+          <p>The chain, tick, related token symbols, and transaction IDs provide context for an inscription’s records. Keep these identifiers together when reading explorer data.</p>
+        </article>
+          </div>
+        </section>
+        <section class="section" aria-labelledby="terms-title">
+          <h2 class="section-title" id="terms-title">Understand the terminology</h2>
+          <div class="grid">
+        <article class="card card--accent">
+          <h3>Deploy</h3>
+          <p>Deployment defines an inscription with a tick and supply parameters. That definition describes the inscription; it does not establish a particular account’s balance.</p>
+        </article>
+        <article class="card">
+          <h3>Issue</h3>
+          <p>Issuance refers to issuing the inscription’s tokens for distribution. It is distinct from defining the inscription and from an individual mint.</p>
+        </article>
+        <article class="card">
+          <h3>Mint / Inscribe</h3>
+          <p>Minting or inscribing refers to obtaining an amount under the inscription’s distribution rules. The per-mint limit and recorded transaction provide context for that amount.</p>
+        </article>
+          </div>
+        </section>
+        <section class="section" aria-labelledby="ecosystem-title">
+          <h2 class="section-title" id="ecosystem-title">Related projects</h2>
+          <div class="hero-links">
+            <a class="link-button" href="/symbolmarket/">Symbol Market · SEEDs and names</a>
+            <a class="link-button" href="/">Forest · NFTs and collections</a>
+          </div>
+        </section>
+      <section class="section" id="references" aria-labelledby="references-title">
+        <h2 class="section-title" id="references-title">Explore aelf resources</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>Blockchain explorer</h3>
+            <p>AElfScan provides public blockchain records. The chain, token symbol, address, and transaction ID help locate the relevant information.</p>
+            <p><a href="https://aelfscan.io" target="_blank" rel="noopener noreferrer">Open AElfScan →</a></p>
+          </article>
+          <article class="card">
+            <h3>Developer documentation</h3>
+            <p>The aelf documentation introduces the network, smart contracts, and token concepts for readers who want more technical detail.</p>
+            <p><a href="https://docs.aelf.com" target="_blank" rel="noopener noreferrer">Read aelf documentation →</a></p>
+          </article>
+          <article class="card">
+            <h3>The aelf network</h3>
+            <p>The aelf website provides an introduction to the blockchain and its ecosystem.</p>
+            <p><a href="https://aelf.com" target="_blank" rel="noopener noreferrer">Learn about aelf →</a></p>
+          </article>
+        </div>
+      </section>
+      </main>
+    </div>
+    <footer class="footer">
+      <div class="footer-row">
+        <span>aelf Inscriptions · The aelf ecosystem</span>
+        <nav class="footer-links" aria-label="aelf resources">
+          <a href="https://docs.aelf.com" target="_blank" rel="noopener noreferrer">aelf documentation</a>
+          <a href="https://aelfscan.io" target="_blank" rel="noopener noreferrer">AElfScan</a>
+          <a href="https://aelf.com" target="_blank" rel="noopener noreferrer">About aelf</a>
+        </nav>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

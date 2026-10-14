@@ -1,0 +1,402 @@
+{
+  "name": "forest-ecosystem",
+  "pages": [
+    "/404.html",
+    "/aelfinscription/404.html",
+    "/aelfinscription/assets/",
+    "/aelfinscription/auction/",
+    "/aelfinscription/create-ft/",
+    "/aelfinscription/deploy/",
+    "/aelfinscription/",
+    "/aelfinscription/inscription-detail/",
+    "/aelfinscription/issue/",
+    "/aelfinscription/latest/",
+    "/aelfinscription/mint/",
+    "/aelfinscription/notable/",
+    "/aelfinscription/popular/",
+    "/aelfinscription/profile/",
+    "/aelfinscription/seed-detail/",
+    "/asset/",
+    "/collections/",
+    "/create-collection/",
+    "/create-item/",
+    "/create-nft-ai/",
+    "/detail/",
+    "/drops-detail/",
+    "/drops/",
+    "/explore-items/",
+    "/",
+    "/my-collections/",
+    "/symbolmarket/404.html",
+    "/symbolmarket/assets/",
+    "/symbolmarket/auction/",
+    "/symbolmarket/create-ft/",
+    "/symbolmarket/",
+    "/symbolmarket/notable/",
+    "/symbolmarket/popular/",
+    "/symbolmarket/profile/",
+    "/symbolmarket/seed-detail/"
+  ],
+  "resources": [
+    "aelfinscription/assets/font/Roboto-Bold.ttf",
+    "aelfinscription/assets/font/Roboto-Medium.ttf",
+    "aelfinscription/assets/font/Roboto-Regular.ttf",
+    "aelfinscription/assets/images/Seed.png",
+    "aelfinscription/assets/images/bg-bot.png",
+    "aelfinscription/assets/images/bg-top-2x.png",
+    "aelfinscription/assets/images/bg-top-mobile.png",
+    "aelfinscription/assets/logo.svg",
+    "aelfinscription/assets/mobile-logo.svg",
+    "aelfinscription/styles.css",
+    "assets/fonts/Poppins-Bold.otf",
+    "assets/fonts/Poppins-Medium.otf",
+    "assets/fonts/Poppins-Regular.otf",
+    "assets/fonts/Poppins-SemiBold.otf",
+    "assets/images/forest-banner-dark.png",
+    "assets/images/forest-banner-light.png",
+    "assets/images/forest-logo-dark.svg",
+    "assets/images/forest-logo-light.svg",
+    "styles.css",
+    "symbolmarket/assets/font/Roboto-Bold.ttf",
+    "symbolmarket/assets/font/Roboto-Medium.ttf",
+    "symbolmarket/assets/font/Roboto-Regular.ttf",
+    "symbolmarket/assets/images/Seed.png",
+    "symbolmarket/assets/images/bg-bot.png",
+    "symbolmarket/assets/images/bg-top-2x.png",
+    "symbolmarket/assets/images/bg-top-mobile.png",
+    "symbolmarket/assets/logo.svg",
+    "symbolmarket/styles.css"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 26,
+      "sha256": "51bc9658d75a135fa3844e3353f27f7ed178cee8802e21d5d6fc6db61e6e773f"
+    },
+    {
+      "path": "404.html",
+      "bytes": 2065,
+      "sha256": "6c268f0f6318c9a35dd531fea7ba0095944ed0766fd0fa3654c7e868158791d4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2952,
+      "sha256": "71ee648c7d64660cedec2d49c251817197306ef4cab46ea8bd9db1b1e1ff7637"
+    },
+    {
+      "path": "aelfinscription/404.html",
+      "bytes": 2222,
+      "sha256": "f289118f329fe5156d04ffb12f618168eda79d167e54659c7d27ab3491357291"
+    },
+    {
+      "path": "aelfinscription/assets/font/Roboto-Bold.ttf",
+      "bytes": 163448,
+      "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+    },
+    {
+      "path": "aelfinscription/assets/font/Roboto-Medium.ttf",
+      "bytes": 160696,
+      "sha256": "02868d6a7e80d4e7836b6263dd50d26a63e923a1223c9e027aad6dc2501c27cc"
+    },
+    {
+      "path": "aelfinscription/assets/font/Roboto-Regular.ttf",
+      "bytes": 158604,
+      "sha256": "16466ef65064e6f3885a6d2806b8949ac1ac38b524dd0cf8fc96565eb4cc28e8"
+    },
+    {
+      "path": "aelfinscription/assets/images/Seed.png",
+      "bytes": 1307,
+      "sha256": "66e8c1855487d090f273331194cb129598d962d9211c93086a2459eb6c0a233f"
+    },
+    {
+      "path": "aelfinscription/assets/images/bg-bot.png",
+      "bytes": 89170,
+      "sha256": "521cdf2c693be23684c414be5d59ac0320201e918cfcf1e58965be2197d0ba6c"
+    },
+    {
+      "path": "aelfinscription/assets/images/bg-top-2x.png",
+      "bytes": 399802,
+      "sha256": "5cac19d8ae5fe358e59c3b7496e171c6e9fe5489d3aa67a3cb703a7b3218a569"
+    },
+    {
+      "path": "aelfinscription/assets/images/bg-top-mobile.png",
+      "bytes": 174975,
+      "sha256": "4284e63c1913058b72d49815cf8db46711b5376e7f64c27883cff99609b82a60"
+    },
+    {
+      "path": "aelfinscription/assets/index.html",
+      "bytes": 2623,
+      "sha256": "ebeed1cc1fefd6440e17bdcd95a6572ba18368c0149ecc451ad4fa1d0026092e"
+    },
+    {
+      "path": "aelfinscription/assets/logo.svg",
+      "bytes": 8284,
+      "sha256": "9de4bae3fe10719493e70c14cb33d3a0695f250b91a9af267dbb1ebb4510a530"
+    },
+    {
+      "path": "aelfinscription/assets/mobile-logo.svg",
+      "bytes": 8286,
+      "sha256": "32db817acd1bf9ecc517005c5ddf8c3d7363ed5c5f1209ba287563ed93ebecba"
+    },
+    {
+      "path": "aelfinscription/auction/index.html",
+      "bytes": 2582,
+      "sha256": "78bba165cdcf987b88705e7e5d24cca862f93fd869c15f0b360937b0c08e4748"
+    },
+    {
+      "path": "aelfinscription/create-ft/index.html",
+      "bytes": 2622,
+      "sha256": "83d21c8d80035ae0edc01c54fd729fd76b25ac30c65c465be4a5df45caf1b94f"
+    },
+    {
+      "path": "aelfinscription/deploy/index.html",
+      "bytes": 2623,
+      "sha256": "144ffe3d4865aec25e863bdea82116dff51d46a2c9888c7c935f9ea066d0d0ff"
+    },
+    {
+      "path": "aelfinscription/index.html",
+      "bytes": 6192,
+      "sha256": "546415470b1eda0b39e29ddd34470e400c3396769be3aaf5cbcdb45970e691e7"
+    },
+    {
+      "path": "aelfinscription/inscription-detail/index.html",
+      "bytes": 2657,
+      "sha256": "ead853e27bee5aaaf2ae6da4f8c437234b9066429a084b7165f869dbe5a8c5ce"
+    },
+    {
+      "path": "aelfinscription/issue/index.html",
+      "bytes": 2592,
+      "sha256": "ffed70ccf7762aba445678280f08701aaf772a3f0b34c03bc23cd3abbdf907ca"
+    },
+    {
+      "path": "aelfinscription/latest/index.html",
+      "bytes": 2511,
+      "sha256": "a0e31ed0c87fa64dcbb257ef163e25afa3a0482f0fb3be0067876552624e4d61"
+    },
+    {
+      "path": "aelfinscription/mint/index.html",
+      "bytes": 2647,
+      "sha256": "018d51ebc6c64345fbd595731c3a4527e96f0f7f2a0b312add0cd85ec13a2b5f"
+    },
+    {
+      "path": "aelfinscription/notable/index.html",
+      "bytes": 2622,
+      "sha256": "482d0f917cee2dc64a4b6e6165c8095a2635663fb2f93c8fb9a9a4c24516b955"
+    },
+    {
+      "path": "aelfinscription/popular/index.html",
+      "bytes": 2582,
+      "sha256": "e542a56106ecb3bb5b3dfee69dfaf1e33ce97c716d864389ad1bdeea1745adaf"
+    },
+    {
+      "path": "aelfinscription/profile/index.html",
+      "bytes": 2598,
+      "sha256": "b8401f2af6a2a3112b9e81204e97519eacabe818be527c62eed28585b18c53e9"
+    },
+    {
+      "path": "aelfinscription/seed-detail/index.html",
+      "bytes": 2590,
+      "sha256": "49e4de15d1621d019f5ce60ed6779445eccc1fdd46f6ac70323025d7685c219a"
+    },
+    {
+      "path": "aelfinscription/styles.css",
+      "bytes": 6238,
+      "sha256": "1ee1a7b408790dcc04c0228d40ce53f09b258cd08aa613f2def60bcc78a20534"
+    },
+    {
+      "path": "asset/index.html",
+      "bytes": 2251,
+      "sha256": "99f2f1c77d26b56b3dd570bcf8ab6fa12b7c9c03a34fa6acc7c36a0dcd87d63e"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.otf",
+      "bytes": 95496,
+      "sha256": "50af8bcb91e0e404c550d5cecd5c2c084786574555cc81ebae8754bad9c39ce9"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.otf",
+      "bytes": 94316,
+      "sha256": "9855b001069903d0060ccc1ca5579701db5f8ef11ba3c65162f217045da5275d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.otf",
+      "bytes": 95176,
+      "sha256": "45ad3c794aedbe7be0cd20c68f57464cdb0cdaf001e587e80fb5b6130294712f"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.otf",
+      "bytes": 95944,
+      "sha256": "b6938a2903ed6013145648f7eb208b2b78ecc646aa653f88f5fdd0cbee93fdf9"
+    },
+    {
+      "path": "assets/images/forest-banner-dark.png",
+      "bytes": 127462,
+      "sha256": "4a34cfb94c3e6d7d28727d1e9cb9a29a9a58761bd5fdec4f31ecd0ab1c195ed1"
+    },
+    {
+      "path": "assets/images/forest-banner-light.png",
+      "bytes": 126432,
+      "sha256": "061252e0a7fb1a16709867b68321a39f175a7c84c3a8704ec952f422bc4c47a5"
+    },
+    {
+      "path": "assets/images/forest-logo-dark.svg",
+      "bytes": 8416,
+      "sha256": "752e054ddb5dbd845a42f84567ae97f19215b76c2d17f988b6833be5b23ad66e"
+    },
+    {
+      "path": "assets/images/forest-logo-light.svg",
+      "bytes": 7803,
+      "sha256": "4f5d6db5f23fb8e4cf5255bf95fd64fa294484440657e4cba3d72eb1fc532bd2"
+    },
+    {
+      "path": "collections/index.html",
+      "bytes": 2255,
+      "sha256": "b7e6e8fa9aad416b6474fde6cc62d666f9aac52129ae33daba964360e2c59a98"
+    },
+    {
+      "path": "create-collection/index.html",
+      "bytes": 2369,
+      "sha256": "1becf28fe86aaade83096c2fd18c8c4fef280509bc557609439afc3c076c2cb5"
+    },
+    {
+      "path": "create-item/index.html",
+      "bytes": 2359,
+      "sha256": "2035e428cb0dc6551122e8f64a21257a744412c17f0c24d7cf4c30cc424b676a"
+    },
+    {
+      "path": "create-nft-ai/index.html",
+      "bytes": 2321,
+      "sha256": "080e6f9cda2bf3801c61c992b039eb950b97b09b0024e5cc3f31ceda96e98e44"
+    },
+    {
+      "path": "detail/index.html",
+      "bytes": 2256,
+      "sha256": "486c67d598687eed168a34d3d191f243176586aef3987e666b73e4868d49427e"
+    },
+    {
+      "path": "drops-detail/index.html",
+      "bytes": 2270,
+      "sha256": "44ec346e8980ea354b3e2dec295de349e1ca42e8d2860b1b7daeada127f76119"
+    },
+    {
+      "path": "drops/index.html",
+      "bytes": 2207,
+      "sha256": "5e49ccd7f1e66d7b3ee7cb8c5ed92391a506d2aa4d40efb1c2cb827f5fb7555f"
+    },
+    {
+      "path": "explore-items/index.html",
+      "bytes": 2231,
+      "sha256": "4f9e5c80f78fade0d2743237d177bc4037c70471a5e3b7dc85bd1c09b038221b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5968,
+      "sha256": "44cdcdf14cac6d692c5c377dbf2027d701e41ffc209eecf789a48daf6ec8778c"
+    },
+    {
+      "path": "my-collections/index.html",
+      "bytes": 2418,
+      "sha256": "1bd2ee119fdca4c5df33f4d9c843c1778cd9bd4d7e6f395b44cf1d275d81a587"
+    },
+    {
+      "path": "source-provenance.json",
+      "bytes": 5018,
+      "sha256": "2da48701f4a4709c02cebe1ddad13df6ac1fb95c567137032e3010a05e4c0045"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 7938,
+      "sha256": "d2d5a8d7a50049713c0f71c159787a67d38f2ceaf38f055bdec65b014984794f"
+    },
+    {
+      "path": "symbolmarket/404.html",
+      "bytes": 2171,
+      "sha256": "0bec5b8fdf17a57eb357fa7916e14a43802499cd1d6e3fad1c3be00107a8717f"
+    },
+    {
+      "path": "symbolmarket/assets/font/Roboto-Bold.ttf",
+      "bytes": 163448,
+      "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+    },
+    {
+      "path": "symbolmarket/assets/font/Roboto-Medium.ttf",
+      "bytes": 160696,
+      "sha256": "02868d6a7e80d4e7836b6263dd50d26a63e923a1223c9e027aad6dc2501c27cc"
+    },
+    {
+      "path": "symbolmarket/assets/font/Roboto-Regular.ttf",
+      "bytes": 158604,
+      "sha256": "16466ef65064e6f3885a6d2806b8949ac1ac38b524dd0cf8fc96565eb4cc28e8"
+    },
+    {
+      "path": "symbolmarket/assets/images/Seed.png",
+      "bytes": 1307,
+      "sha256": "66e8c1855487d090f273331194cb129598d962d9211c93086a2459eb6c0a233f"
+    },
+    {
+      "path": "symbolmarket/assets/images/bg-bot.png",
+      "bytes": 89170,
+      "sha256": "521cdf2c693be23684c414be5d59ac0320201e918cfcf1e58965be2197d0ba6c"
+    },
+    {
+      "path": "symbolmarket/assets/images/bg-top-2x.png",
+      "bytes": 399802,
+      "sha256": "5cac19d8ae5fe358e59c3b7496e171c6e9fe5489d3aa67a3cb703a7b3218a569"
+    },
+    {
+      "path": "symbolmarket/assets/images/bg-top-mobile.png",
+      "bytes": 174975,
+      "sha256": "4284e63c1913058b72d49815cf8db46711b5376e7f64c27883cff99609b82a60"
+    },
+    {
+      "path": "symbolmarket/assets/index.html",
+      "bytes": 2562,
+      "sha256": "0dad4664fc3e62411298f25932211756657a220187bce344f2de2357d7586fde"
+    },
+    {
+      "path": "symbolmarket/assets/logo.svg",
+      "bytes": 4256,
+      "sha256": "6981fc361853529362826b6282c0456abe570b728cf52f1019c0dc4ac03fb15c"
+    },
+    {
+      "path": "symbolmarket/auction/index.html",
+      "bytes": 2521,
+      "sha256": "7e14331a4326cfcad7ffb993961409004119f87529be77208d0b4961668bd307"
+    },
+    {
+      "path": "symbolmarket/create-ft/index.html",
+      "bytes": 2561,
+      "sha256": "15a00b1a66ba2e7360ddc74241cfb9b6ea0deb6836cf25b7152612b51c7eb2b7"
+    },
+    {
+      "path": "symbolmarket/index.html",
+      "bytes": 6091,
+      "sha256": "c2c9207d7dbf51e476f8a7de72daa124e39b22f34ffae0f56aeeedb086727ab0"
+    },
+    {
+      "path": "symbolmarket/notable/index.html",
+      "bytes": 2561,
+      "sha256": "cde350a922bab2f74d1d5b539d7e887841fb830e836446f320501b7aee92f347"
+    },
+    {
+      "path": "symbolmarket/popular/index.html",
+      "bytes": 2521,
+      "sha256": "059cba1512f8d62f847786ce444259af80ae6dfecfb8d99d3a622a45f3274277"
+    },
+    {
+      "path": "symbolmarket/profile/index.html",
+      "bytes": 2537,
+      "sha256": "142144014aa29d3af71ad6135b87fa100667a6244d3caa73f42972bc30f6ac5e"
+    },
+    {
+      "path": "symbolmarket/seed-detail/index.html",
+      "bytes": 2529,
+      "sha256": "4b0ae64c0e486335ea23728c025b2f33588c5ac80d17f95da40d7b0733f425c2"
+    },
+    {
+      "path": "symbolmarket/styles.css",
+      "bytes": 6238,
+      "sha256": "4e1f5a4382a8226c664fbdeb887292228c2da2fdf4574a6d3f92d0994f763a65"
+    }
+  ]
+}
